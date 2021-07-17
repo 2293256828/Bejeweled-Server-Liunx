@@ -1,0 +1,3 @@
+/server-liunx/build/CMakeFiles/rebuild_cache.dir
+/server-liunx/build/CMakeFiles/edit_cache.dir
+/server-liunx/build/CMakeFiles/server.dir

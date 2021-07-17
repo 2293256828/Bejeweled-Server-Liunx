@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/server.dir/src/main.cpp.o CMakeFiles/server.dir/src/Server.cpp.o CMakeFiles/server.dir/src/DBConnection.cpp.o  -o ../bin/server  -L/usr/lib64/mysql -Wl,-rpath,/usr/lib64/mysql -lmysqlclient -lmysqlclient 
